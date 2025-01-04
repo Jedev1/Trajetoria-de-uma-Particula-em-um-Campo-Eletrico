@@ -1,4 +1,4 @@
-<h1 align="center">Trajetória de uma partícula em um campo elétrico - João 👾</h1>
+<h1 align="center">Trajetória de uma partícula em um campo elétrico</h1>
 
 ![Imagem do projeto finalizado](campo.png)
 
