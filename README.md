@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](campo.png)
 
-<h4 align="center"><a href="https://jedev1.github.io/portifolio-joao/">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://github.com/Jedev1/Trajetoria-de-uma-Particula-em-um-Campo-Eletrico/blob/main/build/exe.win-amd64-3.12/main.exe">Confira o projeto aqui</a></h4>
 
 ---
 
